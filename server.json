@@ -23,6 +23,13 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "name": "teste italiano 2 editado",
+      "description": "tetuo",
+      "price": "19",
+      "image": "askj",
+      "id": 1235
     }
   ]
 }
